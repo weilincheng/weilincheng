@@ -15,20 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About Me
-Hi! My name is Wei-Lin. 
+Hi! My name is Wei-Lin. I am from Taiwan.
 
-I was a product engineer who works in the chip design industry for almost nine years. I am also a self-taught software developer from Taiwan.
+I was a product engineer who works in the chip design industry for almost nine years. I am also a self-taught software developer.
 
 I joined AppWorks School Batch #16 as a backend development trainee this March to work on my backend development skill.
 
 ## I’m currently learning
-### Data Structure and Algorithm 📖
-* Using Python to solve problems on LeetCode
 
 ### Web Development: 🔨
 * Frontend: React.js
 * Backend: Node.js / Express.js 
 * Database: MySQL / NoSQL (TBD)
 
+### Data Structure and Algorithm 📖
+* Using Python to solve problems on LeetCode
+
 ## My LeetCode Stats ⌨️
-[![Wei-Lin Cheng's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=weilincheng&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+<a href="https://github.com/KnlnKS/leetcode-stats">
+  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=weilincheng&theme=dark" width="400"/>
+</a>
