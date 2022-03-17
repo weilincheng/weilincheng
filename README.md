@@ -15,17 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About Me
-Hi! My name is Wei-Lin. I am a product engineer and also a self-taught software developer from Taiwan.
+Hi! My name is Wei-Lin. 
 
-I am going to join AppWorks School Batch #16 backend class in Taiwan starting from March 2022 to become a software engineer.
+I was a product engineer who works in the chip design industry for almost nine years. I am also a self-taught software developer from Taiwan.
+
+I joined AppWorks School Batch #16 as a backend development trainee this March to work on my backend development skill.
 
 ## I’m currently learning
-* Data Structure and Algorithm 📖
-  * Using Python as the primary programming language for practice 
-* Web Development: 🔨
-  * Frontend: React.js
-  * Backend: Node.js / Express.js 
-  * Database: MySQL / NoSQL (TBD)
+### Data Structure and Algorithm 📖
+* Using Python to solve problems on LeetCode
+
+### Web Development: 🔨
+* Frontend: React.js
+* Backend: Node.js / Express.js 
+* Database: MySQL / NoSQL (TBD)
 
 ## My LeetCode Stats ⌨️
 [![Wei-Lin Cheng's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=weilincheng&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
