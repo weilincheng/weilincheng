@@ -31,7 +31,9 @@ I joined AppWorks School Batch #16 as a backend development trainee this March t
 ### Data Structure and Algorithm 📖
 * Using Python to solve problems on LeetCode
 
+<!--
 ## My LeetCode Stats ⌨️
 <a href="https://github.com/KnlnKS/leetcode-stats">
   <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=weilincheng&theme=dark" width="400"/>
 </a>
+-->
