@@ -15,18 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About Me
-Hi! My name is Wei-Lin. I am from Taiwan.
-
-I was a product engineer who works in the chip design industry for almost nine years. I am also a self-taught software developer.
+Hi! My name is Wei-Lin. I am a backend developer from Taiwan.
 
 I joined AppWorks School Batch #16 as a backend development trainee this March to work on my backend development skill.
+
+I was a product engineer who works in the chip design industry for almost nine years.
 
 ## I’m currently learning
 
 ### Web Development: 🔨
 * Frontend: React.js
 * Backend: Node.js / Express.js 
-* Database: MySQL / NoSQL (TBD)
+* Database: MySQL / MongoDB
 
 ### Data Structure and Algorithm 📖
 * Using Python to solve problems on LeetCode
