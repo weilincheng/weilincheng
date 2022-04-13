@@ -31,6 +31,15 @@ I was a product engineer who works in the chip design industry for almost nine y
 ### Data Structure and Algorithm 📖
 * Using Python to solve problems on LeetCode
 
+
+## Github Stats
+[![trophy](https://github-profile-trophy.vercel.app/?username=weilincheng&theme=discord&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=weilincheng&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weilincheng&layout=compact" />
+</div>
+
 <!--
 ## My LeetCode Stats ⌨️
 <a href="https://github.com/KnlnKS/leetcode-stats">
