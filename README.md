@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About Me
-Hi! My name is Wei-Lin. I am a backend developer from Taiwan.
+Hi! My name is Wei-Lin. I am a backend Engineer from Taiwan.
 
 I joined AppWorks School Batch #16 as a backend development trainee this March to work on my backend development skill.
 
