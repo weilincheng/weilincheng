@@ -23,7 +23,10 @@ I was a product engineer who works in the chip design industry for almost nine y
 
 ## I'm currently working
 
-### Tomo (A personal project that users can meet new nearby friends)
+### Tomo 
+
+#### A personal project that users can meet new nearby friends
+
 * Frontend: jQuery / Google Maps API
 * Backend: Express.js
 * Database: MySQL
