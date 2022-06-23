@@ -21,15 +21,12 @@ I joined AppWorks School Batch #16 as a backend development trainee this March t
 
 I was a product engineer who works in the chip design industry for almost nine years.
 
-## I’m currently learning
+## I'm currently working
 
-### Web Development: 🔨
-* Frontend: React.js
-* Backend: Node.js / Express.js 
-* Database: MySQL / MongoDB
-
-### Data Structure and Algorithm 📖
-* Using Python to solve problems on LeetCode
+### Tomo (A personal project that users can meet new nearby friends)
+* Frontend: jQuery / Google Maps API
+* Backend: Express.js
+* Database: MySQL
 
 <!--
 ## Github Stats
