@@ -15,21 +15,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About Me
-Hi! My name is Wei-Lin. I am a backend Engineer from Taiwan.
+Hi! My name is Wei-Lin. 
 
-I joined AppWorks School Batch #16 as a backend development trainee this March to work on my backend development skill.
-
-I was a product engineer who works in the chip design industry for almost nine years.
+I am a Back-End Engineer with full-stack web development experience, and 6+ years of experience in product management.
 
 ## I'm currently working
 
 ### Tomo 
 
-#### A personal project that users can meet new nearby friends
+#### A location-based social web app (Stack: JavaScript, jQuery, Socket.IO, Express, Node.js, MySQL, AWS)
 
-* Frontend: jQuery / Google Maps API
-* Backend: Express.js
-* Database: MySQL
+- **Client**: JavaScript, jQuery, Bootstrap
+
+- **Server**: Node.js, Express, MySQL, Redis
+
+- **Cloud Services**: AWS EC2, RDS, ElastiCache, S3, CloudFront
+
+- **CI/CD**: AWS CodePipeline, CodeBuild, CodeDeploy
+
+- **Testing**: Mocha, Chai
+
+- **Others**: Socket.IO, Google Maps API
 
 <!--
 ## Github Stats
