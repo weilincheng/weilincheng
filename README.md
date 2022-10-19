@@ -48,7 +48,7 @@ I am a Back-End Engineer from Taiwan, and 6+ years of experience in product mana
 </div>
 
 
-## My LeetCode Stats ⌨️
+## LeetCode Stats ⌨️
 <a href="https://github.com/KnlnKS/leetcode-stats">
   <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=weilincheng&theme=dark" width="400"/>
 </a>
