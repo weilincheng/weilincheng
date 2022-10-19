@@ -19,6 +19,14 @@ Hi! My name is Wei-Lin.
 
 I am a Back-End Engineer from Taiwan, and 6+ years of experience in product management.
 
+## Github Stats
+[![trophy](https://github-profile-trophy.vercel.app/?username=weilincheng&theme=discord&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=weilincheng&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weilincheng&layout=compact" />
+</div>
+
 <!--
 ## I'm currently working
 
@@ -37,18 +45,14 @@ I am a Back-End Engineer from Taiwan, and 6+ years of experience in product mana
 - **Testing**: Mocha, Chai
 
 - **Others**: Socket.IO, Google Maps API
--->
 
-## Github Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=weilincheng&theme=discord&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=weilincheng&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weilincheng&layout=compact" />
-</div>
+
 
 
 ## LeetCode Stats ⌨️
 <a href="https://github.com/KnlnKS/leetcode-stats">
   <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=weilincheng&theme=dark" width="400"/>
 </a>
+
+-->
