@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 ## About Me
 Hi! My name is Wei-Lin. 
 
-I am a Back-End Engineer with full-stack web development experience, and 6+ years of experience in product management.
+I am a Back-End Engineer from Taiwan, and 6+ years of experience in product management.
 
+<!--
 ## I'm currently working
 
 ### Tomo 
@@ -36,8 +37,8 @@ I am a Back-End Engineer with full-stack web development experience, and 6+ year
 - **Testing**: Mocha, Chai
 
 - **Others**: Socket.IO, Google Maps API
+-->
 
-<!--
 ## Github Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=weilincheng&theme=discord&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -51,4 +52,3 @@ I am a Back-End Engineer with full-stack web development experience, and 6+ year
 <a href="https://github.com/KnlnKS/leetcode-stats">
   <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=weilincheng&theme=dark" width="400"/>
 </a>
--->
