@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 ## About Me
 Hi! My name is Wei-Lin. 
 
-I am a Back-End Engineer from Taiwan, and 6+ years of experience in product management.
+Backend Engineer with 6+ years of experience in product management. Skilled in building scalable and reliable backend systems, and experienced in working with cross-functional teams to deliver high-quality products. Strong communication skills and ability to collaborate with stakeholders in multicultural environments.
 
 ## Github Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=weilincheng&theme=discord&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=weilincheng&theme=discord&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=weilincheng&count_private=true&include_all_commits=true" />
