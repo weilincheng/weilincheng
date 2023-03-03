@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## About Me
 Hi! My name is Wei-Lin. 
 
-Backend Engineer with 6+ years of experience in product management. Skilled in building scalable and reliable backend systems, and experienced in working with cross-functional teams to deliver high-quality products. Strong communication skills and ability to collaborate with stakeholders in multicultural environments.
+As a Software Engineer with years of experience in product management and cross-functional collaboration, I have developed a strong understanding of how to deliver high-quality products. I am now transitioning my skills to specialize in backend development and am eager to apply my knowledge of cross-functional collaboration to building robust backend systems. With excellent communication skills and the ability to work effectively in diverse teams, I am excited to contribute to challenging projects in a fast-paced environment.
 
 ## Github Stats
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=weilincheng&theme=discord&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy) -->
