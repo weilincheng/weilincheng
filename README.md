@@ -19,14 +19,14 @@ Hi! My name is Wei-Lin.
 
 As a Software Engineer with years of experience in product management and cross-functional collaboration, I have developed a strong understanding of how to deliver high-quality products. I am now transitioning my skills to specialize in backend development and am eager to apply my knowledge of cross-functional collaboration to building robust backend systems. With excellent communication skills and the ability to work effectively in diverse teams, I am excited to contribute to challenging projects in a fast-paced environment.
 
-## Github Stats
+<!-- ## Github Stats -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=weilincheng&theme=discord&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-<div>
+<!-- <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=weilincheng&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weilincheng&layout=compact" />
 </div>
-
+ -->
 <!--
 ## I'm currently working
 
